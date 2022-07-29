@@ -93,7 +93,7 @@ Example 1: Display a Text
 // program to print a text
 // declaring a function
 function greet() {
-    console.log("Hello there!");
+    console.log("Hello guys!");
 }
 
 // calling the function
@@ -101,5 +101,5 @@ greet();
 
 //Output
 
-Hello there!
+Hello guys!
 ```
