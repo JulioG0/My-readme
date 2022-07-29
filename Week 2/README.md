@@ -1,6 +1,7 @@
->[Week Monday](https://github.com/JulioG0/My-readme/tree/main/Week%202/Week%20challenges(monday))
+>[Week Monday](https://github.com/JulioG0/My-readme/tree/main/Week%202/Week%20challenges(Monday))
 
 
 >[Week Tuesday](https://github.com/JulioG0/My-readme/tree/main/Week%202/Week%20challenges(Tuesday))
 
->[Week Wednesday]
+
+>[Week Wednesday](https:github.com/JulioG0/My-readme/tree/main/Week%202/Week%20challenges(Wednesday))
