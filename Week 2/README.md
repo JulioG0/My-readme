@@ -1,1 +1,1 @@
->[Week challenges 2] ()
+>[Week monday] ()
