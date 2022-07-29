@@ -1,7 +1,7 @@
->[Week 1](https://github.com/JulioG0/My-readme/tree/main/Week%201)
+>[Week 1 Introduction to programming & Javascript ](https://github.com/JulioG0/My-readme/tree/main/Week%201)
 
 
->[Week 2](https://github.com/JulioG0/My-readme/tree/main/Week%202)
+>[Week 2 Javascript](https://github.com/JulioG0/My-readme/tree/main/Week%202)
 
 - 👋 Hi, I’m @JulioG0
 - 👀 I’m interested in programming
