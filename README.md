@@ -3,6 +3,9 @@
 
 >[Week 2 Javascript](https://github.com/JulioG0/My-readme/tree/main/Week%202)
 
+
+>[Week 3 Javascript]()
+
 - 👋 Hi, I’m @JulioG0
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
