@@ -11,7 +11,7 @@
 
 2. ### Create an account in Codewars.
 
-- [Account Created of Codeward](https://www.codewars.com/users/JulioG0)
+- [Account of Codeward](https://www.codewars.com/users/JulioG0)
 
 <br>
 
